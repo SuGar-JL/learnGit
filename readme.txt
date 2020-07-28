@@ -1,3 +1,3 @@
 # learnGit
 dadsadadsa
-另一个小伙伴拉取仓库存在test文件夹里，并提交，最后push到了远程仓库
+另一个小伙伴拉取仓库存在test文件夹里，在dev分支做修改并提交，最后push到了远程仓库
